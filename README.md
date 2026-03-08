@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=80&lines=Hey%2C+I'm+Taha+%F0%9F%91%8B;Developer+%7C+Designer;Always+building+something)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=200&section=header&text=Hey,%20I'm%20Taha%20👋&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Developer%20|%20Designer%20|%203D%20Artist&descAlignY=55&descSize=20)
 
 <br>
 
