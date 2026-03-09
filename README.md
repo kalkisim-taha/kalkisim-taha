@@ -45,7 +45,7 @@
 
 ## 🔥 Contribution Streak
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=kalkisim-taha&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kalkisim-taha&theme=git-dark&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
