@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=220&section=header&text=Hey,%20I'm%20Taha%20👋&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Developer%20|%20Designer%20|%203D%20Artist&descAlignY=58&descSize=22)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=9932cc&height=220&section=header&text=Hey,%20I'm%20Taha%20👋&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Developer%20|%20Designer%20|%203D%20Artist&descAlignY=58&descSize=22)
 
 <p>I'm passionate about coding, design and technology.<br>I have experience in many different programs and I learn best by just doing things.</p>
 
@@ -49,10 +49,9 @@
 
 ---
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=kalkisim-taha&style=for-the-badge&color=FF8C00&label=PROFILE+VIEWS)
+![Visitor Badge](https://komarev.com/ghpvc/?username=kalkisim-taha&style=for-the-badge&color=9932cc&label=PROFILE+VIEWS)
 
 *"Run it first, understand it later."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=100&section=footer)
 
 </div>
